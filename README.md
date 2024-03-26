@@ -1,5 +1,5 @@
 # Wildfire Prediction Application
-## Team Spam Bytes Senior Project
+
 
 <br>
 
