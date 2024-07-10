@@ -30,15 +30,4 @@ The application requires Apache Tomcat 9 to be installed in order to host the fr
 * tensorflow.keras.utils
 * tensorflow.keras.models
 
-<br> 
-
-### ___Timeline___
-1. Sprint 5
-    * YOLO model 
-2. Spring 6
-    * LSTM model
-3. Sprint 7
-    * Connect frontend and backend. Display backend output on frontend.
-4. Sprint 8
-    * Testing
 
