@@ -11,13 +11,11 @@ This application will allow the user to enter two Longitude and Latitude coordin
 
 <br>
 
-### ___Testing___
-To be completed in CSC 191
+### ___Output___
+![LSTM_output](https://github.com/user-attachments/assets/9ce87bad-9eeb-4010-922d-b6103357b152)
 
-<br>
 
-### ___Deployment___
-To be completed in CSC 191
+
  
 <br>
 
